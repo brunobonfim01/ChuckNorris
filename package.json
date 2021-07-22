@@ -1,0 +1,22 @@
+{
+  "name": "javascript_chucknorris",
+  "version": "1.0.0",
+  "description": "teste de projeto de possivel api",
+  "main": "curiosidades.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "brunobonfim01"
+  },
+  "keywords": [
+    "javascript",
+    "ChuckNorris"
+  ],
+  "author": "Bruno Bonfim",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
